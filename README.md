@@ -38,5 +38,5 @@
    python3 app.py
 5. To generate a CSV file with the last 1000 data entries from the database, run data_taking.py:
    ```sh
-   python data_taking.py
+   python3 data_taking.py
 In case you want to migrate data, there're exported files that can be use to import into another oracle database.
