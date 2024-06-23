@@ -50,5 +50,6 @@ In case you want to migrate data, there're exported files that can be use to imp
 6. To run the main file Node.js application, using the command:
    ```sh
    npm run start
+   ```
 The application now is ready to be used.
 ### The video demo is on this link: https://drive.google.com/drive/folders/1DCI8XxdfKTEvueLgNbGWebYs98GOZDo7?usp=sharing
